@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_d151da7c7a7a25e200d56cb4848f2bd0c2fc2c38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_aebf6b27f3e456ce525ba369f12b9f4483d9f01d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_2673588da0adf9685ac57e29b1ddc9b55f9b56a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_77a3abda0e6bda0f34860bffcddbcad05b2630c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5895c068c58f7a9f73c1c6fccd19a065c8d1205e">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_903a00ffdada84d37e17a2364cc0142e092545a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_958db24044488fe378250338160e1b15a41c58bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_288e86d34cd3295ee15d72f48a0a34a0be680b8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3df630986e65f74ca4d127e8da1fb268db8b0945\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7e22c42ada5bc6dff1fc5a306dc5b3f446ccc070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_4959a2f8432fad758766f76d6065508290aba70f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8339e7b40bf4a33d6c54afdc86a677068ed79822\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_9644de70822ffe61bd5952174bc2df29be4effbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_500529176e457a57a89537327d8e3591349be291\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_9e80c4dfd47a2bcc2e731a9b4ce2391b66f9ba3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f1a3620885adb5782d07f1231d3e20ddeaa856c4">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8b8b86c4169379516ee5ad53a594f3453b9c1910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_8dd37ccc7a3bc579886ad4f6161b2cc3bc25991a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8392c66b57353717a1aac1c23658f5b7c8ac3686\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_4dff6b0badb68f94bdfd153222d42bbefd45db56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Alitinia\AndroidStudioProjects\PracticeAdapter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_49e3afcb1e0b5c90a7723c099efd806e27083b12\classes.dex" />
+    </item>
+
+</items>

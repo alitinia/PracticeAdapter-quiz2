@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_student_menu.xml",
+        "source": "C:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\src\\main\\res\\menu\\edit_student_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\student_menu.xml",
+        "source": "C:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\src\\main\\res\\menu\\student_menu.xml"
+    }
+]

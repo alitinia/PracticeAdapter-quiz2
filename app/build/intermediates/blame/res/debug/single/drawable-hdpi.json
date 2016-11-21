@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add_black_24dp.png",
+        "source": "C:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\src\\main\\res\\drawable-hdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_done_black_24dp.png",
+        "source": "C:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\src\\main\\res\\drawable-hdpi\\ic_done_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_clear_black_24dp.png",
+        "source": "C:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\src\\main\\res\\drawable-hdpi\\ic_clear_black_24dp.png"
+    }
+]

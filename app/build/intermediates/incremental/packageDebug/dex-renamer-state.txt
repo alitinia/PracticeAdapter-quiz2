@@ -1,0 +1,7 @@
+#Mon Nov 21 14:31:57 ICT 2016
+base.0=C\:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8b8b86c4169379516ee5ad53a594f3453b9c1910
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_903a00ffdada84d37e17a2364cc0142e092545a1\\classes.dex
+base.1=C\:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_903a00ffdada84d37e17a2364cc0142e092545a1
+file.0=C\:\\Users\\Alitinia\\AndroidStudioProjects\\PracticeAdapter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8b8b86c4169379516ee5ad53a594f3453b9c1910\\classes.dex
